@@ -6,7 +6,7 @@
 
 	<properties>
 		<property name="LOG_HOME">logs</property>
-		<property name="LOG_NAME">datahub</property>
+		<property name="LOG_NAME">easy-buy</property>
 	</properties>
 
 	<Appenders>
