@@ -34,4 +34,12 @@ public class HiController {
         return view;
     }
 
+    @RequestMapping(value = "hand", method = RequestMethod.GET)
+    public ModelAndView hand() {
+        CommonJsonModelAndView view = new CommonJsonModelAndView();
+
+
+        return view;
+    }
+
 }
